@@ -1,0 +1,28 @@
+#Es usado un intérprete en el cmd el cual ejecuta nuestros comandos, siguiendo una busqueda del archivo en cuestión.
+#Podemos acceder a ella mediante el cmd, escribiendo PYTHON en la entrada. Pudiendo ejecutar operaciones y código de pyhton.(Salimos con exit())
+#cd Desktop para tener acceso a nuestros archivos. CD PYTHON-COURSE.
+DATOS
+#En python se encuentran los tipos de datos ya reconocidos, int(entero), str(cadena de texto), bool(booleano),float(numeros con comas), etc.
+
+#Las cadenas de texto se concatetan con "+"
+
+#[1,2,3] = es una lista
+#Existe un tipo de dato llamado tuples, son listas pero constantes, en vez de [1,2,3] es (1,2,3)
+
+#Diccionarios son como listas pero pertenecientes a un mismo contexto, por si queremos guardar distintos datos de una misma persona.
+#{"primer_nombre": "Fabri"
+#"segundo_nombre": "Rafael"
+#"DNI": "46552006"}
+
+print para poder mostrar algo por pantalla
+dir para poder acceder a las distintas funciones dentro de una función o elemento.
+type para saber de que tipo de dato es el elemento 
+input para poder ingresar información
+
+
+
+
+TKINTER
+las etiquetas son elementos que se posicionan en la ventana.
+
+variable = tkinter.Label(en donde colocamos la etiqueta, que texto quiero que haya en la etiqueta, parametros de su tamaño)
